@@ -1,1 +1,4 @@
-./.idea ./.vscode
+.idea
+.vscode
+node_modules
+dist
